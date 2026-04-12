@@ -1,1 +1,7 @@
-// Main superloop (Finite State Machine) for turn signals
+#include "ts_app.h"
+
+int main(void)
+{
+    ts_app_run();
+    return 0;
+}

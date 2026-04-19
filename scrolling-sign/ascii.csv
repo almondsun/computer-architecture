@@ -1,0 +1,40 @@
+letter,representation
+" ",
+0,A B C D E F
+1,B C
+2,A B D E G
+3,A B C D G
+4,B C F G
+5,A C D F G
+6,A C D E F G
+7,A B C
+8,A B C D E F G
+9,A B C D F G
+A,A B C E F G
+B,C D E F G
+C,A D E F
+D,B C D E G
+E,A D E F G
+F,A E F G
+G,A C D E F
+H,B C E F G
+I,B C
+J,B C D E
+K,B E F G
+L,D E F
+M,A C E G
+N,C E G
+O,A B C D E F
+P,A B E F G
+Q,A B C D F G
+R,E G
+S,A C D F G
+T,D E F G
+U,B C D E F
+V,B C D E F
+W,B C D E F
+Y,B C D F G
+Z,A B D E G
+-,G
+_,D
+".",DP

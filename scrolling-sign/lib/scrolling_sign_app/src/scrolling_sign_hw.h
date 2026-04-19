@@ -1,0 +1,6 @@
+#ifndef SCROLLING_SIGN_APP_LOCAL_SCROLLING_SIGN_HW_H
+#define SCROLLING_SIGN_APP_LOCAL_SCROLLING_SIGN_HW_H
+
+#include "../../../include/scrolling_sign_hw.h"
+
+#endif // SCROLLING_SIGN_APP_LOCAL_SCROLLING_SIGN_HW_H

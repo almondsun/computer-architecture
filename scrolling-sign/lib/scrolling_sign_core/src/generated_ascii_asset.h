@@ -1,0 +1,48 @@
+#ifndef GENERATED_ASCII_ASSET_H
+#define GENERATED_ASCII_ASSET_H
+
+/* Auto-generated from ascii.csv. Do not edit by hand. */
+static const char k_scrolling_sign_ascii_csv[] =
+    "letter,representation\n"
+    "\" \",\n"
+    "0,A B C D E F\n"
+    "1,B C\n"
+    "2,A B D E G\n"
+    "3,A B C D G\n"
+    "4,B C F G\n"
+    "5,A C D F G\n"
+    "6,A C D E F G\n"
+    "7,A B C\n"
+    "8,A B C D E F G\n"
+    "9,A B C D F G\n"
+    "A,A B C E F G\n"
+    "B,C D E F G\n"
+    "C,A D E F\n"
+    "D,B C D E G\n"
+    "E,A D E F G\n"
+    "F,A E F G\n"
+    "G,A C D E F\n"
+    "H,B C E F G\n"
+    "I,B C\n"
+    "J,B C D E\n"
+    "K,B E F G\n"
+    "L,D E F\n"
+    "M,A C E G\n"
+    "N,C E G\n"
+    "O,A B C D E F\n"
+    "P,A B E F G\n"
+    "Q,A B C D F G\n"
+    "R,E G\n"
+    "S,A C D F G\n"
+    "T,D E F G\n"
+    "U,B C D E F\n"
+    "V,B C D E F\n"
+    "W,B C D E F\n"
+    "Y,B C D F G\n"
+    "Z,A B D E G\n"
+    "-,G\n"
+    "_,D\n"
+    "\".\",DP\n"
+    "";
+
+#endif // GENERATED_ASCII_ASSET_H
